@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Vindication of a short treatise of tythes lately written, and excepted against by a pamphlet, stilled, the funeral of tythes, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95936</idno>
+            <idno type="STC">Wing V467</idno>
+            <idno type="STC">Thomason E705_3</idno>
+            <idno type="STC">ESTC R207094</idno>
+            <idno type="EEBO-CITATION">99866166</idno>
+            <idno type="PROQUEST">99866166</idno>
+            <idno type="VID">118430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118430)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Vindication of a short treatise of tythes lately written, and excepted against by a pamphlet, stilled, the funeral of tythes, &amp;c.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Newcomb, for Thomas Heath, and are to be sold at his shop in Russel-street, near the Piazza's of Covens-Garden.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to:  The funeral of tythes, A tract of tythes, and A treatise of tythes. (p.3).</note>
+                  <note>Annotation on Thomason copy: "July. 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral of tythes --  Early works to 1800.</term>
+               <term>Tract of tythes --  Early works to 1800.</term>
+               <term>Treatise of tythes --  Early works to 1800.</term>
+               <term>Tithes --  Great Britain --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118430:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 126 -->
+            <p>A VINDICATION Of a ſhort TREATISE OF TYTHES Lately WRITTEN, AND Excepted againſt by a Pam<g ref="char:EOLhyphen"/>phlet, ſtilled, <hi>The Funeral of Tythes, &amp;c.</hi>
+            </p>
+            <p>
+               <date>
+                  <add>July. 7</add>
+               </date>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Newcomb,</hi> for <hi>Thomas Heath,</hi> and are to be ſold at his ſhop in <hi>Ruſſel-ſtreet,</hi> near the Piazza's of <hi>Covent-Garden.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise_on_tithes">
+            <pb facs="tcp:118430:2"/>
+            <!-- PDF PAGE 127 -->
+            <pb n="3" facs="tcp:118430:2"/>
+            <!-- PDF PAGE 127 -->
+            <head>A Vindication of a ſhort Trea<g ref="char:EOLhyphen"/>tiſe of Tythes lately written; and excepted againſt by a Pamphlet ſtiled, <hi>The Funeral of Tythes, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving peruſed with an equal eye, and unbyaſed judgement, three late Writings, the one called, <hi>A Tract of Tythes;</hi> and the other, <hi>A Treatiſe of Tythes;</hi> and a third termed, <hi>The Fune<g ref="char:EOLhyphen"/>ral of Tythes, &amp;c.</hi> in nature of a Reply to the Treatiſe; where<g ref="char:EOLhyphen"/>in the party that wrote the Treatiſe is envited to a Rejoynder, and to joyn iſſue, but upon what par<g ref="char:EOLhyphen"/>ticular point that iſſue ſhould be joyned, is not ex<g ref="char:EOLhyphen"/>preſſed; ſo that for clear ſatisfaction to all per<g ref="char:EOLhyphen"/>ſons, the Allegations and Reaſons upon the whole matter on both parts are to be duly weighed, be<g ref="char:EOLhyphen"/>fore judgement can be given thereupon: We ſhall ſingle forth whath hath been delivered in the Trea<g ref="char:EOLhyphen"/>tiſe, whereunto exception hath been taken in the Reply, and then peruſe what is delivered in the Tract, which is not cleared in the Treatiſe (for
+<pb n="4" facs="tcp:118430:3"/>
+               <!-- PDF PAGE 128 -->it ſeemeth unto me, that the Treatiſe was not penned with reference to the Tract, or as an Anſwer there<g ref="char:EOLhyphen"/>unto) and to give ſuch further ſatisfaction there<g ref="char:EOLhyphen"/>to as the ſame ſhall require, eſpecially becauſe the perſon that wrote that Treatiſe (as I am inform<g ref="char:EOLhyphen"/>ed) intendeth to ſay no more, til a more full Anſwer be given to what he hath delivered in that Trea<g ref="char:EOLhyphen"/>tiſe.</p>
+            <p>The firſt Exception in the Reply, is taken to a paſſage in the Epiſtle, concerning the Duty of payment, and that there is not any of the Learned Hiſtories, but queſtion the Duty; but the Reply names none; and if he did, he that ſaith, <hi>The la<g ref="char:EOLhyphen"/>bourer is worthy of his hire, and that thou ſhalt not muzzel the Ox that treadeth out the corn,</hi> is above them all; therefore if the Replyer peruſe the Wri<g ref="char:EOLhyphen"/>ters well he ſhall finde, that it is the Riſe, the Part and Manner of Payment that troubles them all, and not a Tythe or Portion to be due unto the Miniſter: And if the Reply be but conſtant to it ſelf, you may ſee <hi>page</hi> 4. and other paſſages thereof, that he doth condemn the Appropriators for detaining the Tenths and Tythes, as they are paid in this Nation, which he himſelf there affirm<g ref="char:EOLhyphen"/>eth are due unto the Miniſters. And it doth not appear to me, that the Treatiſe did intend to write higher of the Duty of Tythes, then as they are, and have been held due and payable in this Nati<g ref="char:EOLhyphen"/>on, by the eſtabliſhed Laws, whereby we are clearly bound: And ſince the time they have been ſettled, both as for the part and proportion, as alſo for their Regular payment in this Nation (which though neither the Decretal Epiſtle by <hi>In<g ref="char:EOLhyphen"/>nocent</hi>
+               <pb n="5" facs="tcp:118430:3"/>
+               <!-- PDF PAGE 128 -->the 3 in the year 1200. nor the Councel of <hi>Lateran</hi> in the year 1215. could impoſe upon this Nation for a Law, yet the ſame being held by the People of this Land to be reaſonable) the ſame have been received and eſtabliſhed for a Law ever ſince, and the people have thereunto ſubmitted to the payment of them hitherto without diſpute, as is moſt truly affirmed by the Treatiſe, and it may be with confidence enough averred, that there is no learned Writer that doth oppoſe the verity hereof, till this very age; neither are the places in the Tract, whereto the Reply referreth the Rea<g ref="char:EOLhyphen"/>der, at all againſt it; but true it is, that the moſt Learned Writer upon this ſubject, quoted in that Tract, doth ſhew a variety of payment of Tythes before the ſaid Settlement and Eſtabliſhment, but for the practiſe of it ſince, you have his own words in the Treatiſe, <hi>page</hi> 14.</p>
+            <p>And becanſe we will take things along with us as we go, leaſt happily we may be blamed as the Treatiſe is, for not giving an Anſwer to every thing contained in the Tract and in the Reply, we ſhall not balk that Objection (which ſurely the Treatiſe would not have done, had he thought it had been worth the Anſwering) <hi>That the Receivers of Tythes were never any other then Officers or Stewards for their imployment to good uſes, whoſe Miſ-uſer, Non-uſer, or Diſ-uſer, is a forfeiture thereof.</hi> Here may be inquired whoſe officers or Stewards are here<g ref="char:EOLhyphen"/>by meant that they are; if they ſhall ſay they are Gods ſtewards, as al other people are of that which they poſſeſs in this world, then are they onely ac<g ref="char:EOLhyphen"/>countable to him; if it ſhall be ſaid, that they are
+<pb n="6" facs="tcp:118430:4"/>
+               <!-- PDF PAGE 129 -->the Patrons or Pariſhoners Stewards, they muſt prove it, and not barely affirm it, for the Law ſaith, the Parſon is ſeized of the Tythes, &amp;c. in Right of his Church, as a man is ſaid to be ſeized of Lands in Right of his Wife, and yet he is not his Wives Officer or Steward, but true and law<g ref="char:EOLhyphen"/>ful owner and Poſſeſſor, to his own uſe. But ad<g ref="char:EOLhyphen"/>mit him <hi>Quaſi</hi> Officer or Steward, what a Non-ſequiter then do you draw frow hence, that <hi>Ergo,</hi> his Non-uſer, Miſ-uſer, Diſ-uſer, muſt be a for<g ref="char:EOLhyphen"/>feiture of the Churches Right, and of the Patrons alſo: Do you not know, that the Law hath or<g ref="char:EOLhyphen"/>dained a Commiſſion to rectifie Lands, Tithes, &amp;c. given to good uſes upon their miſ-imployments, and can you give any inſtance that ſuch things have been forfeited for miſ-imployment: your caſes of Keeperſhip of Wilde-Beaſts, Steward<g ref="char:EOLhyphen"/>ſhip or Ceſſation, <hi>per Bienium,</hi> ſuit not at all with it, if it be but in that point onely of the difference, by being ſeized in their own right, and in Right of the Church or other Right, you cannot be igno<g ref="char:EOLhyphen"/>rant, that if an Executor be outlawed, he forfeits not the goods whereof he is poſſeſſed as Executor, though his own he doth: beſides, is it not clearly againſt the Statutes of 1 <hi>Eliz.</hi> and 13 <hi>Eliz.</hi> for a Parſon to do, commit or ſuffer a forfeiture of the Parſonage? it is not denyed, but that a Parſon for ſcandalous life, &amp;c. may be removed, but it is utterly that he can forfeit the inheritance of his Parſonage.</p>
+            <p>And again, by your General words (Receivers of Tythes) you mean to include Appropriators too, for Officers and Stewards, but which way
+<pb n="7" facs="tcp:118430:4"/>
+               <!-- PDF PAGE 129 -->do you prove it: for you muſt know, that upon Appropriations there were by the Statutes of 15 <hi>R.</hi> 2. and 4 <hi>H.</hi> 4. Vicars End owed, and proviſion then made for the poor, which you acknowledge, was as the value of things then were, equal or near to the worth; and in all or moſt Pariſhes, where Tythes are appropriate, the Lands given to the poor thereupon remain, and are known by the name of the poors Lands or Town Land to this day; and by what clauſe of the Inſtrument of Appropriation do you finde, that the Appropria<g ref="char:EOLhyphen"/>tors were Officers or Stewards onely? or by what clauſe in all the Statutes that gave them to the Crown, or derived them out, or gives remedy for their recovery, do you finde them but Officers or Stewards? it is plain by them, that they are due to the Appropriator and Parſon, and double and tremble damages given; but do you finde they are accountable to any for them? Beſides, if there could be ſuch forfeiture committed, who ſhould take the forfeiture. The Patron ought to be pre<g ref="char:EOLhyphen"/>ferred before the Freeholder, for he is the ſuppo<g ref="char:EOLhyphen"/>ſed Doner of Tythes, but that will not pleaſe the Replyer, it is the true owner muſt have them; but who that true owner is, will be the queſtion, which he reſolves to be every Freeholder, but he ſets not forth his Title, how he came by them, ſure it is he never bought them, nor paid for them; nor ought the Freeholder to be Judge in his own cauſe, whether the Tythes were well or ill imployed: And you conceive the Judges or Juſtices will not ad<g ref="char:EOLhyphen"/>judge the Title of the Appropriators to be good to Tythes: And yet you may ſee it every day ad<g ref="char:EOLhyphen"/>judged
+<pb n="8" facs="tcp:118430:5"/>
+               <!-- PDF PAGE 130 -->good by them, but it is ſo, that you will not acquieſs in their judgement: And then you in<g ref="char:EOLhyphen"/>quire, why a Parliament may not take them away? To which we Anſwer, That we will not diſpute the Power of Supreme Authority: but this you are to learn, that no man ought to have a diſhonor<g ref="char:EOLhyphen"/>able thought of Supreme Authority, that they will do any unjuſt thing; and becauſe they may do what they will, that therefore you ſhould preſs them to do all they may.</p>
+            <p>And though you may be bold with Parliaments of former ages (for the dead bite not) and ſay that Tythes have come to Appropriators as Thief-ſtolen goods, and now the true owners have found where they be, &amp;c. Were you not ſhewn in the Treatiſe that the Appropriators who have them, came to them by ſeveral Acts of Parliament, and you cannot make the Appropriators the Receivers, but you muſt make all thoſe Parliaments the Thieves, nor is the legal Poſſeſſion of the Appro<g ref="char:EOLhyphen"/>priators derived unto them by that Authority, to be paralleled with the Raign of that <hi>Julian;</hi> and the rather, becauſe no Appropriation could be made, without a conſent of Parſon, Patron and Ordinary, who by the Law of this Nation, had as good power to return them as to take them.</p>
+            <p>And now to give you ſatisfaction to your won<g ref="char:EOLhyphen"/>der, that it ſhould be affirmed, that Appropriators had as good right to Tythes (for you admit the Parſons have) as the Freeholder hath to his Free<g ref="char:EOLhyphen"/>hold: Are not Tythes made Lay-Fees by the Statutes? and hath not the Appropriator a Free<g ref="char:EOLhyphen"/>hold in them? do you not ſee daily that Recoveries
+<pb n="9" facs="tcp:118430:5"/>
+               <!-- PDF PAGE 130 -->are ſuffered of them, and fines, which are the grand aſſurance of the Land, levyed and acknowledged of them; are they not then Freeholds as well as Land or Rents? and what, or wherein lies that vaſt difference, they being both Freeholds, that ſhould raiſe ſo great a wonder? may not the ad<g ref="char:EOLhyphen"/>miration rather be, that you ſhould thus contend againſt the Laws, Statutes and Aſſurances of this Land: And when neither Judge nor jury will comply with you, that you ſhould with your fre<g ref="char:EOLhyphen"/>quent Addreſſes, interrupt the more weighty and ſerious conſiderations of Supreme Authority, who whileſt they are endeavoring to ſettle the great af<g ref="char:EOLhyphen"/>fairs of the Land, you would have them in the very firſt place to unſettle and confound, if not the Tenth part of the People, yet the Tenth part, (ſay we, the Sixth part or more ſay you of the Real Poſſeſſions of the Nation: the commence<g ref="char:EOLhyphen"/>ment where of was, as you are told by that Trea<g ref="char:EOLhyphen"/>tiſe, if not by a Law enjoyning them, yet (which is more ſtrong) by a voluntary Donation of the People, ratified by the common Laws, and con<g ref="char:EOLhyphen"/>firmed by a multitude of Statutes, which need not be again recited.</p>
+            <p>All which Statutes you affirm, till the time of <hi>H.</hi> the eighth, are no more for the confirmation of Tythes, then other ſuperſtitious things aboliſhed, whereby you plainly acknowledg Tythes by them to be confirmed; and when you can prove them ſuperſtitious which you deny in your Reply, <hi>p.</hi> 3.) you may take them; but if they were as you im<g ref="char:EOLhyphen"/>ply, ſuperſtitious, why are you then offended that the Appropriators have them, Reply, <hi>p.</hi> 4. to ſay
+<pb n="10" facs="tcp:118430:6"/>
+               <!-- PDF PAGE 131 -->truth, you anſwer this queſtion your ſelf in the ſame place, becauſe they are not imployed as at firſt intended; and ſo if Tythes be ſuperſtitious, rather then the Appropriator ſhould hold them, you would have them returned to the Miniſter, for the primitive ſuperſtitious intention (as you ſuppoſe) that you may with the more colour take them a<g ref="char:EOLhyphen"/>way quite.</p>
+            <p>And as for all the other Statutes ſince the be<g ref="char:EOLhyphen"/>ginning of the Raign of <hi>H.</hi> 8. you affirm contra<g ref="char:EOLhyphen"/>ry to the expreſs words both of the Inſtruments of Appropriations (which are to hold <hi>in Proprios uſus,</hi> to their own proper uſe) and contrary alſo to the very letter of thoſe Statutes, which give them to the Crown, as the Abbots, &amp;c. held them, and ſo confirm the grants of the Crown to the ſub<g ref="char:EOLhyphen"/>jects alſo) that the makers of thoſe Statutes meant, that the Tythes ſhould be imployed, as at firſt intended. Certainly if you had ever read any of thoſe Inſtruments whereby Tythes were appropriated, and duly weighed the laſt mentioned Statutes, you could not be of this opinion, nor that the Appropriators were but Officers and Ste<g ref="char:EOLhyphen"/>wards entruſted for the Church and poor, or that their imployment of Tythes to other uſes, ſhould be a forfeiture of their proper or appropriated right and intereſt: and it being made thus plain unto you, that the Appropriators are ſeized in their own right, diſcharged and free from all truſt, by the very Inſtruments of the Appropriations themſelves in expreſs words, and by the before-mentioned Statutes; and whereof generally fines have been levyed, many five years ſince have paſſed, no claim
+<pb n="11" facs="tcp:118430:6"/>
+               <!-- PDF PAGE 131 -->til now made, wherby your pretended owners are clear<g ref="char:EOLhyphen"/>ly barred; be not, now you are thus enlightened, tur<g ref="char:EOLhyphen"/>bulent in the State, cenſorious of the learned and upright Judges, inciters of <hi>Jurors</hi> to be perjured, whom you would not have to go according to their evidence; in a word, ſtrive not to ſubvert or overthrow the ſettled Go<g ref="char:EOLhyphen"/>vernment of Church or State; for who are they that trouble, perplex or ſtrive to put this Nation into confu<g ref="char:EOLhyphen"/>ſion (to uſe your own words) more then they that are reſtleſs to unſettle the real Poſſeſſions, either of Church or Commonwealth, for their own ſelf ends and intereſts. But as to this of ſelf-end &amp; intereſt (to do the Replyant right) I muſt partly excuſe him of the guilt thereof, for he dealeth thus far ingeniouſly herein, that though he would have Tythes confounded, that yet the Land-lord Freeholder or Husbandman ſhould be never a whit the better, nor gainer by it: for in his Tract <hi>p.</hi> 30. (whereun<g ref="char:EOLhyphen"/>to in his Reply <hi>p.</hi> 5. he doth refer the Reader) he ſaith, <hi>Such Heatheniſm is not intended, that though Tythes be confounded in the Land, but that yet the Land ought to be charged with ſomewhat equivolent thereunto for the main<g ref="char:EOLhyphen"/>tenance of the Miniſter.</hi> But if the multitude did take notice of this paſſage, they would not con him thanks, nor return him to be their Advocate or Pen-man any more; and therefore he did very warily in his Reply, re<g ref="char:EOLhyphen"/>fer himſelf in this point ſilently to his Tract, rather then to publiſh this too often, leaſt the Petitioners mouthes would hereby be ſtopped, and ſo he might want aſſiſt<g ref="char:EOLhyphen"/>ance to cry down Tythes, which all the Arguments and Reaſons which he can uſe or render will not be able to do. But as I excuſe the Replyant partly as to this; ſo I muſt condemn his want of charity to the Appropriator, for he propoſeth nothing equivolent for him.</p>
+            <p>And as to the Stipend propounded for the Miniſter in
+<pb n="12" facs="tcp:118430:7"/>
+               <!-- PDF PAGE 132 -->lieu of his Tythes, becauſe he hath miſ-imployed them that they muſt be forfeited, is the Replyant aſſured, that the Miniſter will imploy his ſtipend better then his Tythes? and when the Miniſters Tythes are gone, how can he be aſſured of his equ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>volent ſtipend: let him not be firſt ſtripped of his Tythes, till he ſee equal allow<g ref="char:EOLhyphen"/>ance and conſent thereunto, and then you may have them, in the mean time, pay them for conſcience ſake to the one and to the other, and condemn not former ages that have ſo done, for they are in conſcience due, as all things elſe are, that the Law gives relief for, not<g ref="char:EOLhyphen"/>withſtanding any thing yet ſaid to the contrary.</p>
+            <p>Thus have I taken upon me (if I have not wronged the Gentleman who wrote the Treatiſe) to vindicate it, not finding any thing therein at all aſſerted, but what is moſt true, and may joyn iſſue, either upon the whole mat<g ref="char:EOLhyphen"/>ter, or upon any particular point therein, with all that hitherto hath been ſaid againſt it.</p>
+            <p>And if any thing more be here alledged, it is but for the illuſtration of that which was therein the more conciſely couched, and to ſatisfie the Replycant in that his Beloved conceit of Officer, Stewardſhip and Truſt, wherein he thought himſelf not before Anſwered, which I hope is done in that perſpicuity, that his judgement will hereby be convinced, and his pen ſilenced, and his adherents and others ſatisfied, truth vindicated, the Rights of the Church and Propriety juſtified, which is the only aym and ſcope of him that hath written this Vindication.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
